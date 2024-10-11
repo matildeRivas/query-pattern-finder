@@ -1,4 +1,4 @@
-# SPARQLO
+# SPARQL pattern finder
 
 Este proyecto es para buscar topologías específicas dentro de wikidata con el objetivo de probar un proyecto de tésis de optimización de consultas usando qdags
 
